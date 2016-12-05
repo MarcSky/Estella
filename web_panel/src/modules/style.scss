@@ -1,0 +1,37 @@
+.rowClient {
+  cursor: pointer;
+}
+.nameCol {
+  width: 20%;
+}
+
+.lastCol {
+  width: 20%;
+}
+
+.paCol {
+  width: 20%;
+}
+.adressCol {
+  width: 20%;
+}
+.mcCol {
+  width: 25%;
+}
+.buttonCol {
+  width: 5%;
+  :global(.btn) {
+    margin: 0 5px;
+  }
+}
+.pName {
+  margin: 0 0 -2.5px;
+}
+
+.fixCourseworkName {
+  margin-top: 23px;
+}
+
+.fixButtonGroup {
+  margin-right: 16px;
+}

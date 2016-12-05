@@ -1,0 +1,4 @@
+Lgck\CoreBundle\Entity\Theme:
+    themes{1..100}:
+        name: <sentence()>
+        coursework: "@courseworks*"

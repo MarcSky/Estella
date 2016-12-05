@@ -1,0 +1,21 @@
+lgck_service:
+    resource: "@LgckServiceBundle/Resources/config/routing.yml"
+    prefix:   /api
+
+lgck_auth:
+    resource: "@LgckAuthBundle/Resources/config/routing.yml"
+    prefix:   /
+
+lgck_core:
+    resource: "@LgckCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+fos_oauth_server_token:
+    resource: "@FOSOAuthServerBundle/Resources/config/routing/token.xml"
+
+fos_oauth_server_authorize:
+    resource: "@FOSOAuthServerBundle/Resources/config/routing/authorize.xml"
+
+fos_user_security:
+    resource: "@FOSUserBundle/Resources/config/routing/security.xml"

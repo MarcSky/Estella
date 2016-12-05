@@ -1,0 +1,5 @@
+Lgck\CoreBundle\Entity\UserCoursework:
+    user_courseworks{1..100}:
+        creator: "@userStudents*"
+        coursework: "@coursework*"
+

@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "name": "app-admin",
+      "script": "./bin/server.js",
+      "instances": 1,
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
+      "log_file": "./logs/app.log",
+      "error_file": "./logs/app-err.log",
+      "out_file": "./logs/app-out.log",
+      "exec_mode": "cluster_mode",
+      "max_memory_restart": "200M",
+      "watch": false,
+      "env": {
+        "NODE_PATH": "./src",
+        "NODE_ENV": "production",
+        "PORT": 8080,
+        "APIPORT": 3030
+      }
+    }
+  ]
+}

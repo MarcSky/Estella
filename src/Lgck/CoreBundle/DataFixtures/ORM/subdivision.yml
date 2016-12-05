@@ -1,0 +1,42 @@
+Lgck\CoreBundle\Entity\Subdivision:
+    subdivision1:
+        name: "ЮФУ"
+    subdivision2:
+        name: "ИКТИБ"
+        parent: "@subdivision1"
+    subdivision3:
+        name: "БИТ"
+        parent: "@subdivision2"
+    subdivision4:
+        name: "ВМ"
+        parent: "@subdivision2"
+    subdivision5:
+        name: "ВТ"
+        parent: "@subdivision2"
+    subdivision6:
+        name: "ДМиМО"
+        parent: "@subdivision2"
+    subdivision7:
+        name: "ИМС"
+        parent: "@subdivision2"
+    subdivision8:
+        name: "ИАСБ"
+        parent: "@subdivision2"
+    subdivision9:
+        name: "ИБТКС"
+        parent: "@subdivision2"
+    subdivision10:
+        name: "МОП ЭВМ"
+        parent: "@subdivision2"
+    subdivision11:
+        name: "ПИБЖ"
+        parent: "@subdivision2"
+    subdivision12:
+        name: "СиПУ"
+        parent: "@subdivision2"
+    subdivision13:
+        name: "САПР"
+        parent: "@subdivision2"
+    subdivision14:
+        name: "САиТ"
+        parent: "@subdivision2"

@@ -1,0 +1,49 @@
+lgck_api_bootstrap:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\BootstrapController
+
+lgck_api_coursework:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\CourseworkController
+
+lgck_api_document:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\DocumentController
+
+lgck_api_note:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\NoteController
+
+lgck_api_subdivision:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\SubdivisionController
+
+lgck_api_theme:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\ThemeController
+
+lgck_api_upload:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\UploadController
+
+lgck_api_group:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\GroupController
+
+lgck_api_teachers:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\TeacherController
+
+lgck_api_students:
+    type: rest
+    prefix: /v1
+    resource: Lgck\ServiceBundle\Controller\StudentController

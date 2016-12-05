@@ -1,0 +1,9 @@
+Lgck\CoreBundle\Entity\Group:
+    group1:
+        name: "КТбо4-10"
+    group2:
+        name: "КТбо4-9"
+    group3:
+        name: "КТбо4-8"
+    group4:
+        name: "КТбо4-7"

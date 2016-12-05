@@ -1,0 +1,10 @@
+services:
+      fewnix.validator:
+              class: Lgck\CoreBundle\Services\Validator
+              arguments: ["@validator"]
+      fewnix.security:
+              class: Lgck\AuthBundle\Services\Security
+              arguments: ["@doctrine.orm.entity_manager", "@fewnix.validator"]
+      fewnix.file.upload:
+              class:  Lgck\ServiceBundle\Services\UploadService
+              arguments: ['@service_container']

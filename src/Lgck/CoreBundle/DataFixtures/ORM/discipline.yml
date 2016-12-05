@@ -1,0 +1,4 @@
+Lgck\CoreBundle\Entity\Discipline:
+    disciplines{1..150}:
+        name: <word()>
+        course: <numberBetween(1,4)>

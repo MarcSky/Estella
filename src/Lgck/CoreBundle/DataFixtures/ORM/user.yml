@@ -1,0 +1,307 @@
+Fewnix\UserBundle\Entity\User:
+    userStudent1:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Разак"
+        sname: "Абдул"
+        pname: "Халекович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent2:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Сергей"
+        sname: "Букач"
+        pname: "Александрович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent3:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Сергей"
+        sname: "Варибрус"
+        pname: "Сергеевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent4:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Артем"
+        sname: "Волков"
+        pname: "Олегович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent5:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Константин"
+        sname: "Вервечкин"
+        pname: "Александрович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent6:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Олег"
+        sname: "Воронин"
+        pname: "Анатольевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent7:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Анатолий"
+        sname: "Гайдуков"
+        pname: "Борисович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent8:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Сергей"
+        sname: "Джамбинов"
+        pname: "Владимирович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent9:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Виталий"
+        sname: "Золотько"
+        pname: "Александрович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent10:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Иван"
+        sname: "Колмычек"
+        pname: "Сергеевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent11:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Наталья"
+        sname: "Осьмирко"
+        pname: "Вадимовна"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent12:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Юлия"
+        sname: "Запорожец"
+        pname: "Не-знаю"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent13:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Алексей"
+        sname: "Соколов"
+        pname: "Александрович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent14:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Андрей"
+        sname: "Фостеев"
+        pname: "Сергеевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent15:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Сергей"
+        sname: "Чернюк"
+        pname: "Александрович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent16:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Александра"
+        sname: "Чернявская"
+        pname: "Владимировна"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userStudent17:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Владимир"
+        sname: "Чумичев"
+        pname: "Сергеевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+        course: 4
+        group: "@group1"
+    userTeacher1:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Евгений"
+        sname: "Нужнов"
+        pname: "Владимирович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher2:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Виктор"
+        sname: "Курейчик"
+        pname: "Михайлович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher3:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Леонид"
+        sname: "Гладков"
+        pname: "Анатольевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher4:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Борис"
+        sname: "Лебедев"
+        pname: "Константинович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher5:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Виктория"
+        sname: "Бова"
+        pname: "Викторовна"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher6:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Владимир"
+        sname: "Курейчик"
+        pname: "Викторович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher7:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Олег"
+        sname: "Лебедев"
+        pname: "Борисович"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userTeacher7:
+        email: <freeEmail()>
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_TEACHER'), $count = 1)>
+        fname: "Андрей"
+        sname: "Лежебоков"
+        pname: "Анатольевич"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userAdmin:
+        email: admin@mail.ru
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_ADMIN'), $count = 1)>
+        fname: "Админ"
+        sname: "Админ"
+        pname: "Админ"
+        avatar: <word()>
+        subdivision: "@subdivision13"
+    userStudent:
+        email: student@mail.ru
+        salt: pl4tcyt2ejkg0c84wgsocsocg44gos
+        password: 2688722933587c44fae0c95836eb14266667f3e110c5cdef66be3cf53ae33c1251eed18cd22c3b1356eed52abc15852cd36c78b7efad50e21557154335a5d466
+        roles: <randomElements($array = array('ROLE_STUDENT'), $count = 1)>
+        fname: "Леван"
+        sname: "Гогохия"
+        pname: "Ревазович"
+        avatar: <word()>
+        course: <numberBetween(1,4)>
+        subdivision: "@subdivision13"
+        group: "@group1"

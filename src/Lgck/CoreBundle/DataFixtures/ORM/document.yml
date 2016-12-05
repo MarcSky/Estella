@@ -1,0 +1,5 @@
+Lgck\CoreBundle\Entity\Document:
+    documents{1..100}:
+        name: <name()>
+        path: <name()>
+        creator: "@userStudent*"

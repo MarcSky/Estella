@@ -1,0 +1,4 @@
+Lgck\CoreBundle\Entity\Coursework:
+    courseworks{1..100}:
+        name: <sentence()>
+        end: <numberBetween(1,10000000)>

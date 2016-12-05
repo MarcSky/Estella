@@ -1,0 +1,14 @@
+change_password_admin:
+    path: /api/v1/admin/profile
+    defaults: { _controller: LgckAuthBundle:Password:putProfileAdmin }
+    methods: [PUT]
+
+change_password_user:
+    path: /api/v1/user/profile
+    defaults: { _controller: LgckAuthBundle:Password:putProfileUser }
+    methods: [PUT]
+
+reset_password_user:
+    path: /api/v1/user/reset
+    defaults: { _controller: LgckAuthBundle:Password:putResetUser }
+    methods: [PUT]
